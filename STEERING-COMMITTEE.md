@@ -4,10 +4,10 @@ This document lists the members of the Organization's Steering Committee. Voting
 
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
-| Member 1 | - | - |
-| Member 2 | - | - |
-| Member 3 | - | - |
-| Member 4 | - | - |
+| Qingyun Wu | @qingyun-wu | - |
+| Chi Wang | @sonichi | - |
+| - | - | - |
+| - | - | - |
 ---
 Part of MVG-0.1-beta.
 Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
