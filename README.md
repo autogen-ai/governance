@@ -22,9 +22,11 @@ Welcome to the governance repository for [AutoGen-AI](https://github.com/autogen
 
 AutoGen-AI follows the [MVG governance model](https://github.com/github/MVG), which is designed to be fair, transparent, and efficient. Key aspects include:
 
-Clear roles and responsibilities for contributors, maintainers, and project leads
-A defined decision-making process for various types of project decisions
-A path for contributors to become maintainers
+- Clear roles and responsibilities for contributors, maintainers, and technical steering committee
+
+- A defined decision-making process for various types of project decisions
+
+- A path for contributors to become maintainers
 
 ## Contributor License Agreement (CLA)
 
