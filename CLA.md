@@ -1,14 +1,14 @@
 ## Contributor License Agreement
 
 
-This Contributor License Agreement ("Agreement") is agreed to by the party signing below ("You"), and conveys certain license rights to the owners of the autogen-ai GitHub organization (AutoGen-AI), i.e., https://github.com/autogen-ai for your contributions to AutoGen-AI open source projects. This Agreement is effective as of the latest signature date below.
+This Contributor License Agreement ("Agreement") is agreed to by the party signing below ("You"), and conveys certain license rights to AGMax, Inc. ("AGMax"), for your contributions to AGMax open source projects. This Agreement is effective as of the latest signature date below.
 
 
 ### 1. Definitions
 
-"Code" means the computer software code, whether in human-readable or machine-executable form, that is delivered by You to AutoGen-AI under this Agreement.
+"Code" means the computer software code, whether in human-readable or machine-executable form, that is delivered by You to AGMax under this Agreement.
 
-"Project" means any of the projects owned or managed by https://github.com/autogen-ai (AutoGen-AI) in which software is offered under a license approved by the Open Source Initiative (OSI) (www.opensource.org) and documentation offered under an OSI or a Creative Commons license (https://creativecommons.org/licenses).
+"Project" means any of the projects owned or managed by AGMax in which software is offered under a license approved by the Open Source Initiative (OSI) (www.opensource.org) and documentation offered under an OSI or a Creative Commons license (https://creativecommons.org/licenses).
 
 "Submit" is the act of uploading, submitting, transmitting, or distributing code or other content to any Project, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Project for the purpose of discussing and improving that Project, but excluding communication that is conspicuously marked or otherwise designated in writing by You as "Not a Submission."
 
@@ -30,9 +30,9 @@ References to "employer" in this Agreement include Your employer or anyone else 
 
 ### 5. License
 	
-- a. Copyright License. You grant AutoGen-AI, and those who receive the Submission directly or indirectly from AutoGen-AI, a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license in the Submission to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute the Submission and such derivative works, and to sublicense any or all of the foregoing rights to third parties.
+- a. Copyright License. You grant AGMax, and those who receive the Submission directly or indirectly from AGMax, a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license in the Submission to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute the Submission and such derivative works, and to sublicense any or all of the foregoing rights to third parties.
 
-- b. Patent License. You grant AutoGen-AI, and those who receive the Submission directly or indirectly from AutoGen-AI, a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license under Your patent claims that are necessarily infringed by the Submission or the combination of the Submission with the Project to which it was Submitted to make, have made, use, offer to sell, sell and import or otherwise dispose of the Submission alone or with the Project.	
+- b. Patent License. You grant AGMax, and those who receive the Submission directly or indirectly from AGMax, a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license under Your patent claims that are necessarily infringed by the Submission or the combination of the Submission with the Project to which it was Submitted to make, have made, use, offer to sell, sell and import or otherwise dispose of the Submission alone or with the Project.	
 
 - c. Other Rights Reserved. Each party reserves all rights not expressly granted in this Agreement. No additional licenses or rights whatsoever (including, without limitation, any implied licenses) are granted by implication, exhaustion, estoppel or otherwise.
 
@@ -43,8 +43,8 @@ You represent that You are legally entitled to grant the above licenses. You rep
 You are not expected to provide support for Your Submission, unless You choose to do so. UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, AND EXCEPT FOR THE WARRANTIES EXPRESSLY STATED IN SECTIONS 3, 4, AND 6, THE SUBMISSION PROVIDED UNDER THIS AGREEMENT IS PROVIDED WITHOUT WARRANTY OF ANY KIND, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY OF NONINFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
 
 
-### 7. Notice	to	AutoGen-AI 
-You agree to notify AutoGen-AI in writing of any facts or circumstances of which You later become aware that would make Your representations in this Agreement inaccurate in any respect.
+### 7. Notice	to	AGMax 
+You agree to notify AGMax in writing of any facts or circumstances of which You later become aware that would make Your representations in this Agreement inaccurate in any respect.
 
 ### 8.	Information	about	Submissions 
 You agree that contributions to Projects and information about contributions may be maintained indefinitely and disclosed publicly, including Your name and other information that You submit with Your Submission.
@@ -55,10 +55,10 @@ This Agreement is governed by the laws of the State of Washington, and the parti
 
 ### 10. Entire	Agreement/Assignment.
 
-This Agreement is the entire agreement between the parties, and supersedes any and all prior agreements, understandings or communications, written or oral, between the parties relating to the subject matter hereof. This Agreement may be assigned by AutoGen-AI.
+This Agreement is the entire agreement between the parties, and supersedes any and all prior agreements, understandings or communications, written or oral, between the parties relating to the subject matter hereof. This Agreement may be assigned by AGMax.
 
 Please	select one	of	the	options	below	and	sign	as	indicated. By	signing,	You	accept	and	agree	to	the	
-terms	of	this	Contribution	License	Agreement	for	Your	present	and	future	Submissions to	AutoGen-AI.
+terms	of	this	Contribution	License	Agreement	for	Your	present	and	future	Submissions to	AGMax.
 
 Option 1: Individual Contributor
 
